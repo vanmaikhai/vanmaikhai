@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello 🙏🏽 
 
-<!--
-**maiteka-gr/maiteka-gr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### I'm a Backend developer from Vietnamese
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I'm currently working at Company Software
+- 🌱 I’m currently learning **Micoroservices, Serverless, Database, Design System, AWS**.
+- ⚡️ I'm **Backend** emeritus
+- ⛴ I'm hardcore PHP, JS, Python.
+- ⚙️ I use daily: `.php`, `.py`, `.yml`, `.json`
+- 🌍 I'll be hoping to be more active within the **Laravel Community**
+- 💬 Ping me about **laravel**, **python**, **serverless**, **react**, **react**
+- 📫 Reach me: [linkedin](https://www.linkedin.com/in/khaitk/)
+- 😄 Pronouns: He/Him
+
+---
+<img src="./github-metrics.svg" />
