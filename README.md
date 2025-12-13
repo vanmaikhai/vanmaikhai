@@ -8,7 +8,7 @@
 - ⛴ I'm hardcore PHP, JS, Python.
 - ⚙️ I use daily: `.php`, `.py`, `.yml`, `.js`
 - 🌍 I'll be hoping to be more active within the **Laravel Community**
-- 💬 Ping me about **laravel**, **python**, **serverless**, **react**, **nextjs**
+- 💬 Ping me about **php**, **python**, **serverless**, **react**, **nextjs**
 - 📫 Reach me: [linkedin](https://www.linkedin.com/in/khaitk/)
 - 😄 Pronouns: He/Him
 
