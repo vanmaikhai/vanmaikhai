@@ -1,5 +1,6 @@
-# Hello Sir
+# Welcome
 
+## Hi, I’m Khai 👋
 
 #### I'm a Backend developer from Vietnamese
 
@@ -13,4 +14,8 @@
 - 😄 Pronouns: He/Him
 
 ---
-<img src="./github-metrics.svg" />
+Interviewer Note
+
+If you’re reviewing my GitHub, start with the README files — they explain the design decisions behind the code.
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vanmaikhai&theme=github-compact&days=30&custom_title=Activity%20over%20the%20past%2030%20days&hide_border=false&height=250&point=28a642)](https://github.com/vanmaikhai?tab=repositories)
